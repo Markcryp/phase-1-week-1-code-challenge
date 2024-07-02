@@ -1,6 +1,6 @@
 function checkSpeed() {
     // prompt the user to enter the speed of the car
-    let speed = pardeFloat(prompt("Enter the speed of the car (in km/h):"));
+    let speed = parseFloat(prompt("Enter the speed of the car (in km/h):"));
 
 // Validate the input
 while (isNaN(speed) || speed < 0) {
