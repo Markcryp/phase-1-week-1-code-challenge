@@ -1,4 +1,4 @@
-# WEEK ONE CODE CHALLENGE
+ # WEEK ONE CODE CHALLENGE
 ### Project Description
 This particular javascript project entails 3 arithemetics.
 Firstly is to give a function that prompts the user to input students marks.The input is between 0 - 100
