@@ -1,5 +1,5 @@
  # WEEK ONE CODE CHALLENGE
- 
+
 ### Project Description
 This particular javascript project entails 3 arithemetics.
 Firstly is to give a function that prompts the user to input students marks.The input is between 0 - 100
@@ -37,18 +37,6 @@ NOTE: You are required to complete ALL the challenge
 To use this repo, follow these steps:
 
 ### Guide
-
-- On the top right corner of this page there is a button labelled `Fork`.
-
-- Click on that button to create a copy of the repository to your own account.
-
-- Follow the process described in `Alternative One` above.
-
-- Remember to replace your username when cloning.
-
-      git clone https://github.com/your-github-username-here/toy_problems_js_only.git
-
-     ### Alternative Two
 
 - On the top right corner of this page there is a button labelled `Fork`.
 
